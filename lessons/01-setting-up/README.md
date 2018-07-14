@@ -17,5 +17,5 @@ Feel free to poke around the code to see how we're using webpack and npm scripts
 
 You should see a "This is our first react-router V4 tutorial" message in the browser.
 
-##Make Some Changes
+## Make Some Changes
 Open up src/App.js and change the text to something like "Hello ". The browser automatically reloads with your new code.
