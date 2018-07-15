@@ -77,3 +77,4 @@ ReactDOM.render((
 now you can visit [http://localhost:3000/about](http://localhost:3000/about) and 
 [http://localhost:3000/repos](http://localhost:3000/repos)
 
+[Next: Navigating with link](https://github.com/xdyang1986/React-router-tutorial-V4/tree/master/lessons/03-navigating-with-link)
