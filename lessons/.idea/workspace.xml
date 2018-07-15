@@ -38,16 +38,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="About.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/About.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -121,8 +121,8 @@
       <path value="$PROJECT_DIR$/02-rendering-a-route/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-283" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-51" />
     <option name="width" value="1918" />
     <option name="height" value="1038" />
   </component>
@@ -186,18 +186,18 @@
       <updated>1531529241327</updated>
       <workItem from="1531529242771" duration="199000" />
       <workItem from="1531530181645" duration="117000" />
-      <workItem from="1531531667834" duration="4380000" />
+      <workItem from="1531531667834" duration="5151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4696000" />
+    <option name="totallyTimeSpent" value="5467000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-51" y="0" width="1918" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25236592" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -291,13 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/Repos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -317,8 +310,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-rendering-a-route/src/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
