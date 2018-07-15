@@ -10,7 +10,7 @@ import Repos from './Repos';
 ReactDOM.render((
     <BrowserRouter>
         <div>
-            <Route path="/" component={App}/>
+            <Route exact path="/" component={App}/>
             <Route path="/repos" component={Repos}/>
             <Route path="/about" component={About}/>
         </div>
