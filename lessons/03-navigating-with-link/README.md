@@ -1,21 +1,30 @@
-# Setting up the Project
-First you'll need Node.js and the package manager that comes with it: npm.
+# Navigating with Link
 
-Once you've got that working, head to the command line where we'll set up our project.
+Perhaps the most used component in your app is Link. It's almost identical to the <a/> tag you're used to except that it's aware of the Router it was rendered in.
 
-## Clone the Tutorial
+Let's create some navigating in our `App` component
+
+```js
+//src/App.js
+import {Link} from 'react-router-dom';
+
+class App extends Component {
+  render() {
+    return (
+        <div>
+            <h1>This is our first react-router V4 tutorial</h1>
+            <ul role="nav">
+                <li><Link to="/about">About</Link></li>
+                <li><Link to="/repos">Repos</Link></li>
+            </ul>
+        </div>
+    );
+  }
+}
 ```
-git clone https://github.com/xdyang1986/React-router-tutorial-V4.git
-cd react-router-tutorial-V4
-cd lessons/01-setting-up
-npm install
-npm start
-```
-Now open up http://localhost:3000/
 
-Feel free to poke around the code to see how we're using webpack and npm scripts to run the app.
-
-You should see a "This is our first react-router V4 tutorial" message in the browser.
+Now visit [http://localhost:3000](http://localhost:3000) and click the about/repos link, and click back, click forward.
 
 ## Make Some Changes
-Open up src/App.js and change the text to something like "Hello ". The browser automatically reloads with your new code.
+
+Add a link for the page you added in leeson2 (your customize page) and test.
