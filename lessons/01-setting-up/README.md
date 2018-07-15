@@ -19,3 +19,5 @@ You should see a "This is our first react-router V4 tutorial" message in the bro
 
 ## Make Some Changes
 Open up src/App.js and change the text to something like "Hello ". The browser automatically reloads with your new code.
+
+[Next: Rendering a route](https://github.com/xdyang1986/React-router-tutorial-V4/tree/master/lessons/02-rendering-a-route)
