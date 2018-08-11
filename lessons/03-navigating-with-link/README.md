@@ -28,3 +28,5 @@ Now visit [http://localhost:3000](http://localhost:3000) and click the about/rep
 ## Make Some Changes
 
 Add a link for the page you added in leeson2 (your customize page) and test.
+
+[Next: primary-layout](https://github.com/xdyang1986/React-router-tutorial-V4/tree/master/lessons/04-primary-layout)
